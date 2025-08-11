@@ -47,19 +47,22 @@ Check out the live version of FundFlo [here](https://fund-flo.netlify.app/).
 ### Setup
 
 1. **Clone the repository:**
+```
 git clone https://github.com/RaghavSingh01/FundFlo.git
 cd FundFlo
+```
 
-
-2. **Install dependencies:**
+3. **Install dependencies:**
+```
 npm install
+```
 
-
-3. **Start development server:**
+5. **Start development server:**
+```
 npm run dev
+```
 
-
-4. **Open the app:**  
+6. **Open the app:**  
 Visit [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
