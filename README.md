@@ -2,6 +2,12 @@
 
 FundFlo is a web platform dedicated to empowering investors and companies by facilitating innovative funding opportunities and idea sharing. The platform enables seamless project submissions with rich multimedia, along with secure user authentication and personalized experiences.
 
+
+---
+## Live Demo
+
+Check out the live version of FundFlo [here](https://fund-flo.netlify.app/).
+
 ---
 
 ## Features
