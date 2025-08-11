@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind utilities;
+
+@layer base {
+  /* Scrollbar width */
+  ::-webkit-scrollbar {
+    @apply w-2;
+  }
+
+  /* Scrollbar track */
+  ::-webkit-scrollbar-track {
+    @apply bg-gray-800; /* or bg-inherit */
+  }
+
+  /* Scrollbar thumb */
+  ::-webkit-scrollbar-thumb {
+    @apply bg-blue-300 ;
+  }
+
+  /* Scrollbar thumb hover */
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-blue-600;
+  }
+}
+
