@@ -79,7 +79,7 @@ Visit [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Folder Structure
 
-FundFlo/
+```FundFlo/
 ├── index.html
 ├── package.json
 ├── postcss.config.js
@@ -105,3 +105,4 @@ FundFlo/
 ├── tailwind.config.js
 └── vite.config.js
 
+```
