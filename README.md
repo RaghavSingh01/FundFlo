@@ -61,7 +61,7 @@ FundFlo/
 ```
 
 ## Video Walkthrough of the project
-[Demo Video]()
+[Demo Video](https://youtu.be/25QumoBQtgE)
 
 
 ## Video Walkthrough of the codebase
